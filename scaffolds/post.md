@@ -1,5 +1,8 @@
 ---
-title: {{ title }}
+title: 第X期 XXXXXXX
 date: {{ date }}
-tags:
+tag:
+ - by XXX
+photos:
+ - XXXX
 ---
